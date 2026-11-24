@@ -1,0 +1,1 @@
+# The entry point. This file will just start the FastAPI app and include the routers.
